@@ -17,5 +17,6 @@ main(){
     for (j = 0; j < nchar[i]; ++j) {
       putchar(x);
     }
+    printf("\n");
   }
 }
